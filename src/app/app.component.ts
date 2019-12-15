@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'grid';
+  option4Header = 'Option 4';
+  option4Text = 'A short description of option 4.';
 }
